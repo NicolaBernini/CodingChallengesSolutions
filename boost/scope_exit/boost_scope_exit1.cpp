@@ -4,6 +4,7 @@
 /**
   * @brief Testing BOOST_SCOPE_EXIT macro to trap the scope end 
   * @warning As the macro should run before return, it should return NULL instead it returns a pointer to a heap memory region which has been correctly deallocated 
+  * @note Test it at http://melpon.org/wandbox/permlink/mBMZT2qdcFFGN7Rb 
   */
 std::string *foo()
 {
