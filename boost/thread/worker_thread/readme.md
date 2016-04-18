@@ -17,7 +17,9 @@ A class implementing a Two Threads Producer / Consumer with discard Test Case
 
 ### Working Example 
 
-The Coliru <a href="http://coliru.stacked-crooked.com/a/18b439a9964ae83b" target="_blank">Test</a>
+The Coliru <a href="http://coliru.stacked-crooked.com/a/18b439a9964ae83b" target="_blank">Test</a> appunto 
+
+The Wandbox <a href="http://melpon.org/wandbox/permlink/06qhdQoIXwvWPxbV" target="_blank">Test</a> appunto 
 
 
 
