@@ -1,4 +1,7 @@
-
+/**
+  * @brief The CPP Constructor Ambiguity Problem regarding functions 
+  * @note To see it running check http://ideone.com/ooth6q 
+  */
 #include <iostream>
 
 class A
