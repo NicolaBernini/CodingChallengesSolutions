@@ -23,3 +23,15 @@ The Wandbox <a href="http://melpon.org/wandbox/permlink/06qhdQoIXwvWPxbV" target
 
 
 
+## wt3.cpp 
+
+### Description 
+
+The Main Thread runs up to N = 1 Worker Threads in Parallen and detaches them so no sync join is needed 
+
+### Working Example 
+
+The Coliru <a href="http://coliru.stacked-crooked.com/a/ee517476a341ed4e" target="_blank">Test</a> appunto 
+
+
+
