@@ -4,9 +4,12 @@
 class A
 {
 public:
+    /**
+      * @brief The Constructor making use of C++11 Initializer List running before the Constructor function code 
+      */
     A() : m_n(22) 
     {
-        std::cout << "Empty Constructor" << std::endl; 
+        std::cout << "Empty Constructor setting m _n = " << m_n << std::endl; 
     }
     void print()
     {
