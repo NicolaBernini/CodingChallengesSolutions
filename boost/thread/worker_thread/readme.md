@@ -31,7 +31,7 @@ The Main Thread runs up to N = 1 Worker Threads in Parallen and detaches them so
 
 ### Working Example 
 
-The Coliru <a href="http://coliru.stacked-crooked.com/a/ee517476a341ed4e" target="_blank">Test</a> appunto 
+The Coliru <a href="http://coliru.stacked-crooked.com/a/1296e07bde22846a" target="_blank">Test</a> appunto 
 
 
 
