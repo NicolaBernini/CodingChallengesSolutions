@@ -1,3 +1,9 @@
+/**
+  * @file example1.cpp 
+  * @brief Tests the Boost Asio IO_Service creating a Thread Pool and Pushing Jobs to be performed 
+  * @note Compile with -pthread -lboost_system -lboost_thread 
+  */
+
 #include <iostream>
 #include <boost/system/error_code.hpp>
 #include <boost/asio.hpp>
