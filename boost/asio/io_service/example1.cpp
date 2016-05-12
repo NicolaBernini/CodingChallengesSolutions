@@ -54,9 +54,26 @@ void run (int tNumber)		// 1.
   threads.join_all ();		// 7.
 }
 
-int main(void)
+int main(int argc, char** argv)
 {
-    run(3); 
+ // Default Value
+ int t_num = 3;
+ int t_val = 0; 
+ std::cout << "Boost Asio IO_Service Test1" << std::endl; 
+ if(argc > 1)
+ {
+  if(t_val = atoi(argv[1]) > 0)
+  {
+   std::cout << "Setting the Number of Jobs to " << t_val << std::endl; 
+   t_num = t_val; 
+  }
+  else 
+  {
+   std::cout << "Invalid Input Argument, using default value" << std::endl; 
+  }
+ }
+ std::cout << "Running " << t_num << " jobs " << std::endl; 
+ run(t_val); 
 }
 
 
