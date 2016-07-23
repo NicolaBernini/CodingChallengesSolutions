@@ -14,7 +14,6 @@ using namespace std;
 
 typedef uint64_t int_t; 
 #define READ(n) cin >> n
-#define READ_ARRAY(in_n, out_arr) int_t temp; for(int_t i=0; i<in_n; ++i) {READ(temp); out_arr.push_back(temp); }
 
 template <typename n_t, typename e_t, typename T>
 void f_ReadArray(const n_t& n, T& arr){
@@ -48,13 +47,16 @@ int main() {
     READ(d); 
     
     typedef std::deque<int_t> arr_t; 
-    
     arr_t arr; 
+    
+    //** Load Array as it is 
     f_ReadArray<int_t, int_t, arr_t>(N, arr); 
-    //cout << endl << "Size1 = " << arr.size() << endl; 
+    
+    //** Perform rotations 
     for(int_t i=0; i<d; ++i) f_ShiftLeft<arr_t>(arr); 
+    
+    //** Print Results 
     f_ArrPrint<arr_t, arr_t::iterator>(arr); 
-    //cout << endl << "Size3 = " << arr.size() << endl; 
     
     return 0;
 }
