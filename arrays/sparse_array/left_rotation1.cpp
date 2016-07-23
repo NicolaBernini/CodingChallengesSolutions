@@ -15,6 +15,12 @@ using namespace std;
 typedef uint64_t int_t; 
 #define READ(n) cin >> n
 
+/**
+  * @brief The Array Reading Function 
+  * @tparam n_t Position in the Array Type 
+  * @tparam e_t Element in the Array Type 
+  * @tparam T The actual Container Type (STL Container for e_t type). Just a "push_back()" interface method is required 
+  */
 template <typename n_t, typename e_t, typename T>
 void f_ReadArray(const n_t& n, T& arr){
     e_t temp; 
@@ -25,6 +31,10 @@ void f_ReadArray(const n_t& n, T& arr){
     }
 };
 
+/**
+  * @brief The Left Shifting Function 
+  * @tparam T The actual Container Type (STL Container for e_t type). A "push_back()" and "pop_front()" interface methods is required 
+  */
 template <typename T>
 void f_ShiftLeft(T& arr){
     arr.push_back(arr[0]); 
@@ -32,6 +42,11 @@ void f_ShiftLeft(T& arr){
 };
 
 
+/**
+  * @brief The Array Priting Function 
+  * @tparam T The actual Container Type 
+  * @taparm T_it The Iterator for the Container Type 
+  */
 template <typename T, typename T_it>
 void f_ArrPrint(T& arr){
     for(T_it it = arr.begin(); it != arr.end(); ++it) 
