@@ -1,5 +1,5 @@
 /**
-  * @brief Solution to the HR Problem of Sparse Array 
+  * @brief Solution to the HR Problem of Sparse Array with actual rotation 
   * @note Problem at https://www.hackerrank.com/challenges/array-left-rotation
   */
 
