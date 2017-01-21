@@ -23,8 +23,10 @@ Algo
 - In Constructor 
   - Call the API to acquire the object 
     - Manage API errors: in case of error throw an exception 
+      - **Note** If exception is thrown, CPP Framework guarantees the object is not constructed hence it can't be used and the destructor is not called 
 - In Destructor 
   - Release the Resource 
+    - **Note** CPP Framework guarantees destructor is not called if the object construction has not been previously successfully completed 
 
 ```cpp
 class test
