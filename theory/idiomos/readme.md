@@ -3,7 +3,7 @@
 
 Most Common CPP Idioms 
 - Resource Management 
-  - [RAII](resource_management/raii/readme.md) 
+  - [RAII](resources_management/raii/readme.md) 
 
 
 
