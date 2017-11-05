@@ -46,7 +46,7 @@ public:
 	
     // Hashing Solution 
     // TC: O(n), SC: O(n)
-    static vector<int> twoSum_Hashing(const vector<int>& nums, const int target)
+    static vector<int> twoSum_HashMap(const vector<int>& nums, const int target)
     {
         std::map<int, int> t_hash_map; 
         
@@ -66,17 +66,19 @@ public:
 
 int main() {
 	std::vector<int> temp = {2, 7, 11, 15}; 
-	std::vector<int> res; 
+	std::vector<int> res1, res3; 
 	try
 	{
-		res = Solution::twoSum(temp, 26); 
+		res1 = Solution::twoSum(temp, 26); 
+		res3 = Solution::twoSum_HashMap(temp, 26); 
 	}
 	catch(const std::exception &e)
 	{
 		std::cout << "Exception: " << e.what() << std::endl; 
 	}
 
-	std::cout << "Res = " << std::to_string(res[0]) << ", " << res[1] << std::endl; 
+	std::cout << "Res1 = " << std::to_string(res1[0]) << ", " << res1[1] << std::endl; 
+	std::cout << "Res3 = " << std::to_string(res3[0]) << ", " << res3[1] << std::endl; 
 	// your code goes here
 	return 0;
 }
