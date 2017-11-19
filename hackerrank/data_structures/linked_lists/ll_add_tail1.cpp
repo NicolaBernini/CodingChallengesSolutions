@@ -12,6 +12,7 @@
   }
 */
 
+// Note: I had to add it as there seems to be no Node Constructor 
 // node = map(p_build_node, [constr args])
 Node* do_node_build(const int data, Node* next)
 {
