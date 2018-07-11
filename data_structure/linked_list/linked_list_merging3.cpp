@@ -18,7 +18,7 @@ void fix(SinglyLinkedListNode* head, SinglyLinkedListNode* other)
     {
         // Insert 
         other_stop = other; 
-        while((other_stop->data < head->next->data) && (other_stop->next!=nullptr)) other_stop = other_stop->next; 
+        while((other_stop->next!=nullptr) && (other_stop->next->data < head->next->data)) other_stop = other_stop->next; 
         temp = other_stop->next; 
         other_stop->next = head->next; 
         head->next = other; 
@@ -57,4 +57,3 @@ SinglyLinkedListNode* mergeLists(SinglyLinkedListNode* head1, SinglyLinkedListNo
     
     return head; 
 }
-
