@@ -15,7 +15,7 @@ This kind of solution does not work in this case because while the sliding windo
 
 Naive solution is `O(N*K)` as 
 - `O(N)` needed to observe all the elements and
-- `O(K)`  max search every time a new element is observed (with O(1) push and O(1) pop)
+- `O(K)`  max search every time a new element is observed (with `O(1)` push and `O(1)` pop)
 
 Two possible strategies 
 1. Keep a sorted equivalent of the subarray observed by the sliding window
