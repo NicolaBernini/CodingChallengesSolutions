@@ -1,4 +1,5 @@
 
+// Original Challenge at https://www.hackerrank.com/contests/ngcjcjccg/challenges/string-reverse
 // Challenge1: Reverse a string char by char 
 // Challenge2: Reverse a string word by word (hint: reuse the above result)
 
