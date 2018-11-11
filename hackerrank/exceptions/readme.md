@@ -17,3 +17,24 @@ public:
 
 
 
+# Using Exception 
+
+Example of solution to the [Hackerrank Exceptoin Usage](https://www.hackerrank.com/challenges/exceptional-server/problem) is 
+
+```cpp
+try
+{
+    int res = Server::compute(A, B); 
+    cout << res << endl; 
+}
+catch(std::invalid_argument& e) {cout << "Exception: " << e.what() << endl;}
+catch(std::bad_alloc& ba) { cout << "Not enough memory" << endl; }
+catch(std::exception& e) { cout << "Exception: " << e.what() << endl; }
+catch(...) { cout << "Other Exception" << endl; }
+
+```
+
+
+
+
+
