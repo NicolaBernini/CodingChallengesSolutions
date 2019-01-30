@@ -17,5 +17,10 @@ See source [Programming Challenges Weekly Newsletter 2019W5](https://medium.com/
 
 
 
+# Solutions 
+
+- [Interval Fusion](sol1_20190130_1732_1.py)
+  - [Test it on Pyfiddle](https://pyfiddle.io/fiddle/c05fe7d7-33af-43fe-9ec6-e997e51035c5/?m=Saved%20fiddle)
+
 
 
