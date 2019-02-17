@@ -7,7 +7,7 @@ Challenges with `std::string` appunto
 
 Solutions to [String Reverse Challenge at Hackerrank](https://www.hackerrank.com/contests/ngcjcjccg/challenges/string-reverse) 
 
-- [String Reverse1](https://github.com/NicolaBernini/CPPSnippets1/blob/master/hackerrank/string/string_reverse1.cpp) and two problems are solved 
+- [String Reverse1](string_reverse1.cpp) and two problems are solved 
 1. The char by char string reversion 
   - It is simply solved with an `O(N)` loop from `rbegin()` to `rend()` 
 2. The word by word string reversion 
