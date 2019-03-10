@@ -11,6 +11,15 @@ Directory organization is currently a bit messy because it mixes solutions to ch
 
 
 
+## Recent Updates 
+
+### 2019-03-10 
+
+- [Squaring an ordered List of Positive and Negative Numbers keeping them Ordered](https://github.com/NicolaBernini/CPPSnippets1/tree/master/algo/ordered_square)
+  - Naive + Efficient Solution 
+
+
+
 ## Index 
 
 [CPP11](https://github.com/NicolaBernini/CPPSnippets1/tree/master/cpp11/)
