@@ -11,7 +11,21 @@ Directory organization is currently a bit messy because it mixes solutions to ch
 
 
 
+
+
+
+
+
+
 ## Recent Updates 
+
+### 2019-03-30 
+
+Created [Hackerrank CPP Branch](https://github.com/NicolaBernini/CPPSnippets1/tree/hackerrank_cpp_20190330_1) to continuously add and update Hackerrank CPP related solutions and possibly articles 
+- Just performed a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/3) to add the solution to the [New Year Chaos Counting](https://github.com/NicolaBernini/CPPSnippets1/blob/master/hackerrank/counting/new_year_chaos1.cpp) 
+
+
+
 
 ### 2019-03-10 
 
