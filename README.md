@@ -19,6 +19,14 @@ Directory organization is currently a bit messy because it mixes solutions to ch
 
 ## Recent Updates 
 
+### 2019-03-31 
+
+Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/4) with a solution to this new Hackerrank [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem)
+
+
+
+
+
 ### 2019-03-30 
 
 Created [Hackerrank CPP Branch](https://github.com/NicolaBernini/CPPSnippets1/tree/hackerrank_cpp_20190330_1) to continuously add and update Hackerrank CPP related solutions and possibly articles 
