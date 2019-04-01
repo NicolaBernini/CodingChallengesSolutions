@@ -19,6 +19,14 @@ Directory organization is currently a bit messy because it mixes solutions to ch
 
 ## Recent Updates 
 
+### 2019-04-01
+
+Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/5) with solution to [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem)
+
+
+
+
+
 ### 2019-03-31 
 
 Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/4) with a solution to this new Hackerrank [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem)
