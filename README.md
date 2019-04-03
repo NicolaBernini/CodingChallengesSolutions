@@ -19,6 +19,14 @@ Directory organization is currently a bit messy because it mixes solutions to ch
 
 ## Recent Updates 
 
+## 2019-04-03 
+
+Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/6) with solution to [Socks Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)
+
+
+
+
+
 ### 2019-04-01
 
 Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/5) with solution to [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem)
