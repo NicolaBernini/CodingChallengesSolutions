@@ -21,11 +21,15 @@ Directory organization is currently a bit messy because it mixes solutions to ch
 
 ## 2019-04-05 
 
-Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/7) with solution to [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem) 
+Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/7) with #Haskell Solution to [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem) 
+
+It means I have officially added Haskell to the languages set I am practicing 
+
+
 
 ## 2019-04-03 
 
-Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/6) with solution to [Socks Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)
+Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/6) with #CPP Solution to [Socks Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)
 
 
 
@@ -33,7 +37,7 @@ Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/6) with solution
 
 ### 2019-04-01
 
-Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/5) with solution to [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem)
+Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/5) with #CPP Solution to [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem)
 
 
 
@@ -41,7 +45,7 @@ Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/5) with solution
 
 ### 2019-03-31 
 
-Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/4) with a solution to this new Hackerrank [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem)
+Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/4) with #CPP Solution to [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem)
 
 
 
