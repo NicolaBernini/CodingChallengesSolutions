@@ -21,9 +21,13 @@ Directory organization is currently a bit messy because it mixes solutions to ch
 
 ## 2019-04-05 
 
-Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/7) with #Haskell Solution to [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem) 
+Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/7) with Haskell Solution to [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem) 
 
 It means I have officially added Haskell to the languages set I am practicing 
+
+
+
+Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/8) to add an [Hacker Earth](https://www.hackerearth.com/) Section and Working Branch also including to [Prime Numbers Listing](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/prime-number-8/)
 
 
 
