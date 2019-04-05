@@ -3,9 +3,11 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlxuiLpEobyVBA8ohw0t5Q-X_zLRKRZENtYCDWNpEigEtDU_ZC" width="100" height="100" />  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWnzmvmwvYibi9fELxUne0qcY_xLcufaeevUUfqm8Ld8eaeuF-" width="100" height="100" />  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="100" height="100" />  <img src="https://www.codemate.com/wp-content/uploads/2015/11/go-lang-icon.png" width="100" height="100" />  <img src="https://user-images.githubusercontent.com/3332274/30523722-0101ba56-9bef-11e7-929c-8843369c5d44.png" width="100" height="100" /> <img src="https://www.fpcomplete.com/hubfs/haskell_logo.svg" width="100" height="100"/>
 
-This Repo contains typically solutions to code challenges in mainly C++11 but recently solutions in other languages have been added 
+Solutions to challenges from different sites including 
 
-Sometimes solutions are also commented with dedicated posts 
+<a href="https://www.hackerrank.com/"><img src="https://podtail.com/content/images/podcast/artwork/600/h/a/hackerrank-radio.jpg" width="100" height="100"></a> <a href="https://www.hackerearth.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HackerEarth_logo.png/220px-HackerEarth_logo.png" width="100" height="100"></a>
+
+Specific Profiles 
 
 Directory organization is currently a bit messy because it mixes solutions to challenges and topic at the same level, anyway solutions are typically self contained 
 
