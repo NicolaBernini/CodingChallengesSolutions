@@ -9,6 +9,14 @@ Solutions to challenges from different sites including
 
 Specific Profiles 
 
+- [Nicola Bernini on Hackerrank](https://www.hackerrank.com/nicola_bernini)
+
+- [Nicola Bernini on Hackerearth](https://www.hackerearth.com/@nicolabernini)
+
+
+
+
+
 Directory organization is currently a bit messy because it mixes solutions to challenges and topic at the same level, anyway solutions are typically self contained 
 
 
