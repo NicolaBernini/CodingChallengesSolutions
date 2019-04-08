@@ -29,6 +29,14 @@ Directory organization is currently a bit messy because it mixes solutions to ch
 
 ## Recent Updates 
 
+## 2019-04-07 
+
+Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/9) with a CPP Solution to [Two Sums - Leetcode](https://leetcode.com/problems/two-sum/)
+
+
+
+
+
 ## 2019-04-05 
 
 Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/7) with Haskell Solution to [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem) 
