@@ -29,6 +29,10 @@ Directory organization is currently a bit messy because it mixes solutions to ch
 
 ## Recent Updates 
 
+## 2019-04-09 
+
+Added [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/10) for Careercup Solutions starting with a CPP Solution related to checking the possibility to compose a given word with N Dices each of which has different characters 
+
 ## 2019-04-07 
 
 Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/9) with a CPP Solution to [Two Sums - Leetcode](https://leetcode.com/problems/two-sum/)
