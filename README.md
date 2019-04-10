@@ -29,6 +29,10 @@ Directory organization is currently a bit messy because it mixes solutions to ch
 
 ## Recent Updates 
 
+## 2019-04-10 
+
+Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/11) for a new section about `unordered_map` `unordered_set` `map` `set` starting with the verification of both the lookup and iterability semantics to access elements 
+
 ## 2019-04-09 
 
 Added [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/10) for Careercup Solutions starting with a CPP Solution related to checking the possibility to compose a given word with N Dices each of which has different characters 
