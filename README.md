@@ -29,6 +29,14 @@ Directory organization is currently a bit messy because it mixes solutions to ch
 
 ## Recent Updates 
 
+## 2019-04-13 
+
+Added [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/12) with a solution in Haskell to [Linear Search - Hackerearth](https://www.hackerearth.com/practice/algorithms/searching/linear-search/tutorial/) fully relying pure functions and recursion 
+
+
+
+
+
 ## 2019-04-10 
 
 Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/11) for a new section about `unordered_map` `unordered_set` `map` `set` starting with the verification of both the lookup and iterability semantics to access elements 
