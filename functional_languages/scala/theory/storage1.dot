@@ -1,0 +1,21 @@
+
+```graphviz
+
+digraph {
+    rankdir=LR
+    Storage [label="Storage"]
+    MutableStg [label="Mutable Storage"]
+    ImmutableStg [label="Immutable Storage"]
+    
+    MutableStg1 [label="var name: type = init", shape=box]
+    ImmutableStg1 [label="val name: type = init", shape=box]
+    
+    Storage -> MutableStg -> MutableStg1
+    Storage -> ImmutableStg -> ImmutableStg1
+
+}
+
+```
+
+
+
