@@ -31,7 +31,7 @@ Directory organization is currently a bit messy because it mixes solutions to ch
 
 ## 2019-04-22 
 
-Added [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/13) introducing a section about Combinatorics, starting from solving permutations in a quite general case 
+Added [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/13) introducing a section about [Combinatorics](https://github.com/NicolaBernini/CPPSnippets1/tree/master/combinatorics) starting from solving [Permutations](https://github.com/NicolaBernini/CPPSnippets1/tree/master/combinatorics/generation/permutations) in a quite general case 
 
 ## 2019-04-19 
 
