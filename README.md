@@ -29,6 +29,10 @@ Directory organization is currently a bit messy because it mixes solutions to ch
 
 ## Recent Updates 
 
+## 2019-04-22 
+
+Added [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/13) introducing a section about Combinatorics, starting from solving permutations in a quite general case 
+
 ## 2019-04-19 
 
 Added [Add Two Sum - Leetcode Solution](https://github.com/NicolaBernini/CPPSnippets1/tree/master/leetcode/linkedlist#add-two-number) with related explanation about the [Add Two Sum - Leetcode](https://leetcode.com/problems/add-two-numbers/) challenge and a [Medium Article](https://medium.com/@nicolabernini_63880/leetcode-solution-sum-two-numbers-in-linked-list-representation-fde580f97c5f) with the explanation and solution details 
