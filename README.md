@@ -29,6 +29,14 @@ Directory organization is currently a bit messy because it mixes solutions to ch
 
 ## Recent Updates 
 
+## 2019-04-23 
+
+Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/14) related to [Code Review Stack Exchange](https://github.com/NicolaBernini/CPPSnippets1/tree/master/code_review) elements with a couple of submissions 
+
+
+
+
+
 ## 2019-04-22 
 
 Added [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/13) introducing a section about [Combinatorics](https://github.com/NicolaBernini/CPPSnippets1/tree/master/combinatorics) starting from solving [Permutations](https://github.com/NicolaBernini/CPPSnippets1/tree/master/combinatorics/generation/permutations) in a quite general case 
