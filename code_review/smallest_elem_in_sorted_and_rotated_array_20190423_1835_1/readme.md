@@ -35,6 +35,8 @@ and the first identifies `M` while the second identifies `m` hence return the la
 
 ## 1. Index based solution 
 
+[Index based](index_based1.cpp)
+
 Comments  
 
 - Added the empty array case management using Exception 
@@ -42,6 +44,8 @@ Comments
 
 
 ## 2. Iterators based solution 
+
+[Iterators based](iterator_based1.cpp)
 
 Comments 
 
