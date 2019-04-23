@@ -19,4 +19,13 @@ Each recursion set ends with a valid sequence hence they are all merged together
 
 
 
+# Solutions 
+
+- [Sol1](sol.cpp)
+
+
+
+
+
+
 
