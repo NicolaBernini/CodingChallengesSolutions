@@ -17,7 +17,7 @@ The recursion ends when there are no more elements to place hence `b.empty()` is
 
 Each recursion set ends with a valid sequence hence they are all merged together in a final list of sequences 
 
-
+- [Article on CodeReview StackExchange](https://codereview.stackexchange.com/questions/217939/compute-all-the-permutations-for-a-given-vector-of-integers)
 
 # Solutions 
 
