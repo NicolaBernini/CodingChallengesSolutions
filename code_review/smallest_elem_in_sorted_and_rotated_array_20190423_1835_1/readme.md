@@ -33,6 +33,9 @@ and the first identifies `M` while the second identifies `m` hence return the la
 
 **EDIT** Following @papagaga suggestion I provide 2 implementations 
 
+- [Article on CodeReview StackExchange](https://codereview.stackexchange.com/questions/217897/find-the-smallest-element-in-a-sorted-and-rotated-array/217949#217949)
+
+
 ## 1. Index based solution 
 
 [Index based](index_based1.cpp)
@@ -52,8 +55,6 @@ Comments
 - Working with iterators allows to represent invalid values so no need for Exception and explicit Maybe Monad as the iterator type is one 
 - The first check automatically manages the one element case 
 - The empty array case should be managed before calling this function as it expects both the iterators point to valid elements 
-
-- [Article on CodeReview StackExchange](https://codereview.stackexchange.com/questions/217897/find-the-smallest-element-in-a-sorted-and-rotated-array/217949#217949)
 
 
 
