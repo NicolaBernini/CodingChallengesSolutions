@@ -34,20 +34,14 @@ vector< vector<int> > merge(const vector< vector<int> >& a, const vector< vector
 // State / Args 
 // - Partial Items List 
 // - Remaining Items List 
-vector< vector<int> > perm_comp(const vector<int>& a, const vector<int>& b)
+vector< vector<int> > permutations(const vector<int>& b, const vector<int>& a={})
 {
 
 	if(b.size()==0) return { a }; 
 	
 	vector< vector<int> > res; 
-	for(unsigned int i=0; i<b.size(); ++i) res=merge(res, perm_comp(add_item(a, b[i]), remove_item(b,i))); 
+	for(unsigned int i=0; i<b.size(); ++i) res=merge(res, permutations(remove_item(b,i), add_item(a, b[i]))); 
 	return res; 
-}
-
-
-vector< vector<int> > permutations(const vector<int>& v)
-{	
-	return perm_comp({}, v); 
 }
 
 int main() {
