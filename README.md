@@ -29,6 +29,10 @@ Directory organization is currently a bit messy because it mixes solutions to ch
 
 ## Recent Updates 
 
+## 2019-04-24 
+
+Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/15) related to [Unique Digits Counting](https://github.com/NicolaBernini/CPPSnippets1/tree/master/code_review/unique_digits_count_20190424_1532_1) implemented in Functional style with CPP and with [CodeReview Post](https://codereview.stackexchange.com/questions/216150/count-unique-digits-in-a-given-number/219022#219022) appunto 
+
 ## 2019-04-23 
 
 Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/14) related to [Code Review Stack Exchange](https://github.com/NicolaBernini/CPPSnippets1/tree/master/code_review) elements with a couple of submissions 
