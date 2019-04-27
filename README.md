@@ -29,6 +29,10 @@ Directory organization is currently a bit messy because it mixes solutions to ch
 
 ## Recent Updates 
 
+## 2019-04-27 
+
+Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/16) related to [Project Euler](https://github.com/NicolaBernini/CPPSnippets1/tree/project_euler_20190427_1232_1/project_euler) with a solution to first challenge 
+
 ## 2019-04-24 
 
 Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/15) related to [Unique Digits Counting](https://github.com/NicolaBernini/CPPSnippets1/tree/master/code_review/unique_digits_count_20190424_1532_1) implemented in Functional style with CPP and with [CodeReview Post](https://codereview.stackexchange.com/questions/216150/count-unique-digits-in-a-given-number/219022#219022) appunto 
