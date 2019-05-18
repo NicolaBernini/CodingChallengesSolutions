@@ -15,7 +15,9 @@ Sock Merchant
 - [Def](https://www.hackerrank.com/challenges/sock-merchant/problem)
 - [Sol](sock_merchant.cpp)
 
-
+Couting Triplets 
+- [Def](https://www.hackerrank.com/challenges/count-triplets-1/problem)
+- [Sol](counting_triplets.cpp)
 
 
 
