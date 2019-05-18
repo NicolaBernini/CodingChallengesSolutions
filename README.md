@@ -29,6 +29,10 @@ Directory organization is currently a bit messy because it mixes solutions to ch
 
 ## Recent Updates 
 
+## 2019-05-18 
+
+Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/17) about [Counting Triplets](hackerrank/counting/)
+
 ## 2019-04-27 
 
 Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/16) related to [Project Euler](https://github.com/NicolaBernini/CPPSnippets1/tree/project_euler_20190427_1232_1/project_euler) with a solution to first challenge 
