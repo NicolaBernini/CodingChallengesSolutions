@@ -29,6 +29,10 @@ Directory organization is currently a bit messy because it mixes solutions to ch
 
 ## Recent Updates 
 
+## 2019-06-13 
+
+Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/18) about [Frequency Queries](hackerrank/hashmap) 
+
 ## 2019-05-18 
 
 Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/17) about [Counting Triplets](hackerrank/counting/)
