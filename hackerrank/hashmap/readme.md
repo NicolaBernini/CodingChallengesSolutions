@@ -11,7 +11,11 @@ Anagrams and Sherlock
 
 
 
+## Frequency Query 
 
+Frequency and Query 
+- [Def](https://www.hackerrank.com/challenges/frequency-queries/)
+- [Sol](frequency_query1.cpp)
 
 
 
