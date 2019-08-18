@@ -31,7 +31,9 @@ Directory organization is currently a bit messy because it mixes solutions to ch
 
 ## 2019-08-18 
 
-Added a new solution about [Polygon Perimeter Computation in Scala](hackerrank/scala/polygon_perimeter_20190818_2832_1/) 
+Added a new solution about [Polygon Perimeter Computation in Scala](hackerrank/scala/polygon_perimeter_20190818_2832_1/) Hackerrank challenge in Scala 
+
+Added a new solution about [10 Days of Javascript - Day 2: Loops](hackerrank/nodejs/loops_20190818_2032_1) Hackerrank challenge in NodeJS 
 
 ## 2019-06-27 
 
