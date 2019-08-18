@@ -29,6 +29,10 @@ Directory organization is currently a bit messy because it mixes solutions to ch
 
 ## Recent Updates 
 
+## 2019-08-18 
+
+Added a new solution about [Polygon Perimeter Computation in Scala](hackerrank/scala/polygon_perimeter_20190818_2832_1/) 
+
 ## 2019-06-27 
 
 Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/19) about [Finding the occurrences of a given number in an ordered set](interview_questions/find_number_in_sorted_array_20190627_1) 
