@@ -35,6 +35,8 @@ Added a new solution about [Polygon Perimeter Computation in Scala](hackerrank/s
 
 Added a new solution about [10 Days of Javascript - Day 2: Loops](hackerrank/nodejs/loops_20190818_2032_1) Hackerrank challenge in NodeJS 
 
+Added a new solution about [10 Days of Javascript - Day2: Conditional Statements](hackerrank/nodejs/conditional_statements_20190819_0832_1) Hackerrank challenge in NodeJS 
+
 ## 2019-06-27 
 
 Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/19) about [Finding the occurrences of a given number in an ordered set](interview_questions/find_number_in_sorted_array_20190627_1) 
