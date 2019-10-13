@@ -29,6 +29,10 @@ Directory organization is currently a bit messy because it mixes solutions to ch
 
 ## Recent Updates 
 
+## 2019-10-12 
+
+Added a new [Coding Challenge - Iterator over a nested data structure](https://github.com/NicolaBernini/CPPSnippets1/issues/23) and the related [Solutions Page](challenges/iterator_over_nested_data_structure1)
+
 ## 2019-08-18 
 
 Added a new solution about [Polygon Perimeter Computation in Scala](hackerrank/scala/polygon_perimeter_20190818_2832_1/) Hackerrank challenge in Scala 
