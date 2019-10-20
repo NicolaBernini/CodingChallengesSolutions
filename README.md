@@ -5,7 +5,7 @@
 
 Solutions to challenges from different sites including 
 
-<a href="https://www.hackerrank.com/"><img src="https://podtail.com/content/images/podcast/artwork/600/h/a/hackerrank-radio.jpg" width="100" height="100"></a> <a href="https://www.hackerearth.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HackerEarth_logo.png/220px-HackerEarth_logo.png" width="100" height="100"></a>
+<a href="https://www.hackerrank.com/"><img src="https://s3-us-west-1.amazonaws.com/pathrise-website-guide-wp/guides/wp-content/uploads/2019/05/22174532/hackerrank-logo.jpg" width="100" height="100"></a> <a href="https://www.hackerearth.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HackerEarth_logo.png/220px-HackerEarth_logo.png" width="100" height="100"></a>
 
 Specific Profiles 
 
