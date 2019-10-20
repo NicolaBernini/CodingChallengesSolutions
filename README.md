@@ -29,6 +29,12 @@ Directory organization is currently a bit messy because it mixes solutions to ch
 
 ## Recent Updates 
 
+## 2019-10-20 
+
+Added a new [Hackerrank Section about Solutions in Rust](hackerrank/rust) with a first element about [Array Sum Solution](hackerrank/rust/simple_array_sum_20191020_1232_1)
+
+- Unfortunately currently Hackerrank does not seem to have much support for Rust, hopefully it will improve in the future 
+
 ## 2019-10-12 
 
 Added a new [Coding Challenge - Iterator over a nested data structure](https://github.com/NicolaBernini/CPPSnippets1/issues/23) and the related [Solutions Page](challenges/iterator_over_nested_data_structure1)
