@@ -3,6 +3,14 @@
 
 Challenges with `std::string` appunto 
 
+## Special String Again 
+
+Solutions to [Special String Again](https://www.hackerrank.com/challenges/special-palindrome-again/problem) 
+
+- [Solution1](special_string_again_20191101_1032_1.cpp)
+  - Complexity: O(N) time and O(1) Space 
+  
+
 ## String Reversing 
 
 Solutions to [String Reverse Challenge at Hackerrank](https://www.hackerrank.com/contests/ngcjcjccg/challenges/string-reverse) 
