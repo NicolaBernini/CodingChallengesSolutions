@@ -29,6 +29,10 @@ Directory organization is currently a bit messy because it mixes solutions to ch
 
 ## Recent Updates 
 
+## 2019-11-01 
+
+Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/26) for Hackerrank Challenge [Special String Again](https://www.hackerrank.com/challenges/special-palindrome-again/problem) adding a [CPP Solution](hackerrank/string#special-string-again)
+
 ## 2019-10-20 
 
 Added a new [Hackerrank Section about Solutions in Rust](hackerrank/rust) with a first element about [Array Sum Solution](hackerrank/rust/simple_array_sum_20191020_1232_1)
