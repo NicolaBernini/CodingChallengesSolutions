@@ -29,6 +29,10 @@ Directory organization is currently a bit messy because it mixes solutions to ch
 
 ## Recent Updates 
 
+## 2019-11-10 
+
+Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/27) for Hackerrank Challenge [Array Hourglass](hackerrank.com/challenges/2d-array) with [Solutions in Scala](hackerrank/array/hourglass_scala_20191110_1032_1)
+
 ## 2019-11-01 
 
 Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/26) for Hackerrank Challenge [Special String Again](https://www.hackerrank.com/challenges/special-palindrome-again/problem) adding a [CPP Solution](hackerrank/string#special-string-again)
