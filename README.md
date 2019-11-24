@@ -33,6 +33,8 @@ Directory organization is currently a bit messy because it mixes solutions to ch
 
 Added the [Programming Idioms Section](programming_idioms) starting with some example about [Traits in Rust](programming_idioms/rust/traits/examples) 
 
+Added the [Array2D Rust Examples](programming_idioms/rust/array/array2d) 
+
 ## 2019-11-10 
 
 Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/27) for Hackerrank Challenge [Array Hourglass](hackerrank.com/challenges/2d-array) with [Solutions in Scala](hackerrank/array/hourglass_scala_20191110_1032_1)
