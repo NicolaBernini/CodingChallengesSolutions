@@ -29,6 +29,10 @@ Directory organization is currently a bit messy because it mixes solutions to ch
 
 ## Recent Updates 
 
+## 2019-11-24 
+
+Added the [Programming Idioms Section](programming_idioms) starting with some example about [Traits in Rust](programming_idioms/rust/traits/examples) 
+
 ## 2019-11-10 
 
 Added a [PR](https://github.com/NicolaBernini/CPPSnippets1/pull/27) for Hackerrank Challenge [Array Hourglass](hackerrank.com/challenges/2d-array) with [Solutions in Scala](hackerrank/array/hourglass_scala_20191110_1032_1)
