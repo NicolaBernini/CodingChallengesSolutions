@@ -29,6 +29,10 @@ Directory organization is currently a bit messy because it mixes solutions to ch
 
 ## Recent Updates 
 
+## 2020-01-25 
+
+- [Count the number of different bits between 2 int](https://ideone.com/ZbCsIQ)
+
 ## 2019-11-24 
 
 Added the [Programming Idioms Section](programming_idioms) starting with some example about [Traits in Rust](programming_idioms/rust/traits/examples) 
