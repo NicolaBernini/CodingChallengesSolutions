@@ -31,6 +31,8 @@ Directory organization is currently a bit messy because it mixes solutions to ch
 
 ## 2020-01-25 
 
+- [Solve 2D Maze moving from top left corner to bottom right corner using only right and down moves](https://ideone.com/QrdXyv)
+- [Enumarate all the possible paths to reach nth stair taking for each step 1..k stairs](https://ideone.com/xSy9w6)
 - [Count the number of different bits between 2 int](https://ideone.com/ZbCsIQ)
 
 ## 2019-11-24 
