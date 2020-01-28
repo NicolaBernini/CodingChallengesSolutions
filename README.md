@@ -29,6 +29,10 @@ Directory organization is currently a bit messy because it mixes solutions to ch
 
 ## Recent Updates 
 
+## 2020-01-28 
+
+- [Search for Magic Index](https://ideone.com/ez26KD)
+
 ## 2020-01-25 
 
 - [Solve 2D Maze moving from top left corner to bottom right corner using only right and down moves](https://ideone.com/QrdXyv)
