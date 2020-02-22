@@ -31,6 +31,8 @@ Directory organization is currently a bit messy because it mixes solutions to ch
 
 ## 2020-02-22 
 
+- [Sorting Royal Names](https://github.com/NicolaBernini/CPPSnippets1/issues/30)
+
 - [Integer to Roman and Roman to Integer](https://github.com/NicolaBernini/CPPSnippets1/issues/29)
 
 ## 2020-01-28 
