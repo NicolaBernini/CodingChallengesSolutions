@@ -29,6 +29,10 @@ Directory organization is currently a bit messy because it mixes solutions to ch
 
 ## Recent Updates 
 
+## 2020-02-22 
+
+- [Integer to Roman and Roman to Integer](https://github.com/NicolaBernini/CPPSnippets1/issues/29)
+
 ## 2020-01-28 
 
 - [Search for Magic Index](https://ideone.com/ez26KD)
