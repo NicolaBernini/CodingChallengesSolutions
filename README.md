@@ -29,6 +29,10 @@ Directory organization is currently a bit messy because it mixes solutions to ch
 
 ## Recent Updates 
 
+## 2020-05-01 
+
+- [Hackerrank - Rust - 2D Array](hackerearth/rust/2d_array/readme.md)
+
 ## 2020-02-22 
 
 - [Sorting Royal Names](https://github.com/NicolaBernini/CPPSnippets1/issues/30)
