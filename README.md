@@ -29,6 +29,12 @@ Directory organization is currently a bit messy because it mixes solutions to ch
 
 ## Recent Updates 
 
+## 2020-08-01 
+
+[Computation of the Power Set of a Set](https://gist.github.com/NicolaBernini/db927af05d8b304c86c03b72eaacefef)
+
+![Img1](https://pbs.twimg.com/media/EeWAnacWkAAcdvv?format=png&name=medium)
+
 ## 2020-05-01 
 
 - [Hackerrank - Rust - 2D Array](hackerearth/rust/2d_array/readme.md)
